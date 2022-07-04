@@ -148,4 +148,8 @@ h2 {
     background-color: #3882F6;
     display: flex;
     border-radius: 8px;
+    text-align: left;
+    gap: 60px;
+    /*margin: 150px;*/
+    padding: 30px;
 }
