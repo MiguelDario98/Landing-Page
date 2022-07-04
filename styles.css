@@ -16,6 +16,7 @@ body {
 .header img {
     height: 90px;
     width: 90px;
+    margin-left: 70px;
 }
 
 a {
@@ -28,7 +29,7 @@ ul {
     list-style-type: none;
     display: flex;
     gap: 16px;
-    margin-right: 40px;
+    margin-right: 70px;
 }
 
 .container {
