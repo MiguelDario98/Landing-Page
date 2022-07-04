@@ -12,6 +12,14 @@ body {
     background-color: #1F2937;
 }
 
+.footer {
+    display: flex;
+    background-color: #1F2937;
+    padding: 20px;
+    justify-content: center;
+}
+
+
 .header img {
     height: 90px;
     width: 90px;
@@ -171,3 +179,4 @@ h3 {
 .action-text p {
     margin-top: 0;
 }
+
