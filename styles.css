@@ -136,3 +136,16 @@ h2 {
     font-size: 18px;
     font-weight: bold;
 }
+
+.action {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.call-to-action {
+    background-color: #3882F6;
+    display: flex;
+    border-radius: 8px;
+}
